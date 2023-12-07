@@ -3,8 +3,8 @@
 # *Arduino Cloud: Connecting Your Arduino To The Outside World* Article Resources
 This repository contains resources related to the [Arduino Cloud: Connecting Your Arduino To The Outside World](https://www.woolseyworkshop.com/2023/10/23/arduino-cloud-connecting-your-arduino-to-the-outside-world/) article published on [WoolseyWorkshop.com](https://www.woolseyworkshop.com).
 
-## [IoT_Cloud_LED_Pot](IoT_Cloud_LED_Pot)
-An Arduino sketch that demonstrates how to use Arduino's IoT Cloud service.
+## [Arduino_Cloud_LED_Pot](Arduino_Cloud_LED_Pot)
+An Arduino sketch that demonstrates how to use the Arduino Cloud service.
 
 ## [ArduinoUNO_Pot](ArduinoUNO_Pot)
 A KiCad schematic for a potentiometer connected to an Arduino UNO.
